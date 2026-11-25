@@ -3,11 +3,11 @@
 **Author:** Mohamed Nabil Algamoudi  
 **Room:** Lab Instance  Silent Monitor (Junior Penetration Testing)
 
-These are my notes from completing the room. I used the TryHackMe target and AttackBox/VPN environment. I replaced the assigned target address with **TARGET_IP** so these commands can be read without publishing the address from my session. I have not included any flag values or passwords.
+These are my notes from completing the room. I used the TryHackMe target and AttackBox/VPN environment. I replaced the assigned target address with **targetip** so these commands can be read without publishing the address from my session. I have not included any flag values or passwords.
 
 ## 1. Start the target and connect
 
-I started the target machine and AttackBox, connected to the TryHackMe VPN, and copied the assigned address into my notes. Before running a command, I replaced **TARGET_IP** below with the address for that active room instance.
+I started the target machine and AttackBox, connected to the TryHackMe VPN, and copied the assigned address into my notes. Before running a command, I replaced **target ip** below with the address for that active room instance.
 
 ![Silent Monitor portal landing page](../screenshots/step-01-portal.png)
 
