@@ -7,7 +7,7 @@ These are my notes from completing the room. I used the TryHackMe target and Att
 
 ## 1. Start the target and connect
 
-I started the target machine and AttackBox, connected to the TryHackMe VPN, and copied the assigned address into my notes. Before running a command, I replaced **target ip** below with the address for that active room instance.
+I started the target machine and AttackBox, connected to the my created VPN, and copied the assigned address into my notes. Before running a command, I replaced **target ip** below with the address for that active room instance.
 
 ![Silent Monitor portal landing page](../screenshots/step-01-portal.png)
 
