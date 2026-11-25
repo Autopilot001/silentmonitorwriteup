@@ -1,7 +1,7 @@
 # Silent Monitor my room notes
 
 **Author:** Mohamed Nabil Algamoudi  
-**Room:** TryHackMe  Silent Monitor (Junior Penetration Testing)
+**Room:** Lab Instance  Silent Monitor (Junior Penetration Testing)
 
 These are my notes from completing the room. I used the TryHackMe target and AttackBox/VPN environment. I replaced the assigned target address with **TARGET_IP** so these commands can be read without publishing the address from my session. I have not included any flag values or passwords.
 
@@ -112,7 +112,7 @@ I used Wireshark’s **File → Export Objects → HTTP** menu while reviewing t
 Skip Hydra for this room the login input test exposed the useful weakness sooner.
 Keep the Burp request and response when browser behavior is unclear.
 Treat configuration files and backup databases as sensitive. Do not copy recovered secrets into a public writeup.
-Replace **TARGET_IP** with the address assigned to the current TryHackMe instance.
+Replace **TARGET_IP** with the address assigned to the current Lab Instance 
 
 ## Remediation notes
 
